@@ -1,0 +1,12 @@
+/* body style */
+body{
+    background-color: #f8f9fa;
+}
+/* navbar style */
+.navbar{
+    background-color: #000;
+}
+.navbar-brand, .nav-link {
+    color: #fff !important;
+}
+
